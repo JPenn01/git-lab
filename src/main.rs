@@ -2,8 +2,7 @@ mod report;
 mod supplies;
 
 fn main() {
-    println!("Have you ever been so hungry you could eat a horse?");
-
+    println!("Have you ever been so hungry you could eat a horse? Wahhhhhhhhhhhhhh");
     let party: u32 = 4;
     let days: u32 = 30;
 
