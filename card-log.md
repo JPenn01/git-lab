@@ -1,0 +1,1 @@
+#card log (Partner B)
